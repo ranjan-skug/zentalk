@@ -67,7 +67,7 @@ zentalk/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mern-blog.git
+git clone https://github.com/YOUR_USERNAME/zentalk.git
 cd zentalk
 ```
 
@@ -152,7 +152,7 @@ http://localhost:5173
 ### Local MongoDB
 
 ```env
-MONGO_URI=mongodb://127.0.0.1:27017/mern_blog
+MONGO_URI=mongodb://127.0.0.1:27017/zentalk
 ```
 
 ### MongoDB Atlas
@@ -160,7 +160,7 @@ MONGO_URI=mongodb://127.0.0.1:27017/mern_blog
 For MongoDB Atlas, replace the value with your Atlas connection string:
 
 ```env
-MONGO_URI=mongodb+srv://<username>:<password>@<cluster>.mongodb.net/mern_blog
+MONGO_URI=mongodb+srv://<username>:<password>@<cluster>.mongodb.net/zentalk
 ```
 
 > Never commit your `.env` file or expose your MongoDB credentials and JWT secret publicly.
