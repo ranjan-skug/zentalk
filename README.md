@@ -1,4 +1,4 @@
-# MERN Blog
+# Zen Talk
 
 A full-stack blog application built with **React + Vite, Node.js, Express.js, MongoDB/Mongoose, and JWT authentication**.
 
@@ -43,7 +43,7 @@ A full-stack blog application built with **React + Vite, Node.js, Express.js, Mo
 ## Project Structure
 
 ```text
-mern-blog/
+zentalk/
 ├── client/
 │   ├── src/
 │   ├── public/
@@ -68,7 +68,7 @@ mern-blog/
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/mern-blog.git
-cd mern-blog
+cd zentalk
 ```
 
 ### 2. Backend Setup
@@ -230,7 +230,7 @@ VITE_API_URL=http://localhost:8000
 
 ## Author
 
-**Your Name**
+**Ranjan Kumar**
 
 MERN Stack Developer
 
